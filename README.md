@@ -1,7 +1,7 @@
 # TicTacToe
-Simple Tic-Tac-Toe with Java
+Simple Tic-Tac-Toe with Java from Hyperskill path
 
-From Hyperskill path: 🎮 Tic-Tac-Toe Game
+🎮 Tic-Tac-Toe Game
 A classic console-based Tic-Tac-Toe game for two players, built in Java. Challenge your friends to the timeless battle of X's and O's!
 
 ### Game Rules   ###
